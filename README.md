@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# Orgonograma de Naruto
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Naruto Image](link_para_a_imagem.png)
 
-## Available Scripts
+## Descrição do Projeto
 
-In the project directory, you can run:
+O "Orgonograma de Naruto" é um projeto desenvolvido como parte do programa Oracle Next Education, uma colaboração entre a Oracle e a Alura. Este projeto foi uma oportunidade emocionante de unir minha paixão pelo anime Naruto com meu interesse em desenvolvimento usando React.
 
-### `npm start`
+O objetivo era criar um organograma empresarial, gerando cards personalizados para várias equipes. Cada card apresenta o nome do colaborador, seu cargo e uma imagem que anteriormente poderia ser selecionada  por meio de uma URL mas decidi optar pelo usuário selecionar uma imagem diretamente do computador. Esta melhoria na usabilidade simplificou significativamente o processo de inclusão de imagens.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Melhorias Implementadas
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Inclusão da funcionalidade para seleção de imagens do computador.
+- Personalização dos cards para diferentes equipes do anime naruto.
+- Utilização de React para a construção do projeto.
 
-### `npm test`
+## Vídeo do Projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[![Assista ao Vídeo](link_para_a_imagem_do_video.png)](https://youtu.be/NkkIQu0L1Aw?si=JtCuaBxijll46YLx)
 
-### `npm run build`
+## Agradecimentos
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Gostaria de expressar minha profunda gratidão à Oracle e à Alura pelo incrível programa Oracle Next Education. Essa experiência foi enriquecedora, permitindo-me expandir minhas habilidades técnicas e aplicá-las em um projeto que me trouxe muita satisfação.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Foi um prazer desenvolver este projeto e espero que ele possa inspirar outros desenvolvedores, assim como eu fui inspirado por Naruto.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Muito obrigado!
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
