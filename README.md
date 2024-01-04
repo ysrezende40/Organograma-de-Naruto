@@ -1,6 +1,6 @@
 # Orgonograma de Naruto
 
-![Naruto Image](link_para_a_imagem.png)
+![Naruto Image](Imagens/naruto.png)
 
 ## Descrição do Projeto
 
@@ -16,7 +16,7 @@ O objetivo era criar um organograma empresarial, gerando cards personalizados pa
 
 ## Vídeo do Projeto
 
-[![Assista ao Vídeo](link_para_a_imagem_do_video.png)](https://youtu.be/NkkIQu0L1Aw?si=JtCuaBxijll46YLx)
+[![Assista ao Vídeo](Imagens/naruto.png)](https://youtu.be/NkkIQu0L1Aw?si=JtCuaBxijll46YLx)
 
 ## Agradecimentos
 
