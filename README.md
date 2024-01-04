@@ -4,9 +4,9 @@
 
 ## Descrição do Projeto
 
-O "Orgonograma de Naruto" é um projeto desenvolvido como parte do programa Oracle Next Education, uma colaboração entre a Oracle e a Alura. Este projeto foi uma oportunidade emocionante de unir minha paixão pelo anime Naruto com meu interesse em desenvolvimento usando React.
+O "Orgonograma de Naruto" é um projeto desenvolvido como parte do programa Oracle Next Education, uma colaboração entre a Oracle e a Alura. Este projeto foi uma oportunidade de unir minha paixão pelo anime Naruto com meu interesse em desenvolvimento usando React.
 
-O objetivo era criar um organograma empresarial, gerando cards personalizados para várias equipes. Cada card apresenta o nome do colaborador, seu cargo e uma imagem que anteriormente poderia ser selecionada  por meio de uma URL mas decidi optar pelo usuário selecionar uma imagem diretamente do computador. Esta melhoria na usabilidade simplificou significativamente o processo de inclusão de imagens.
+O objetivo era criar um organograma empresarial, gerando cards personalizados para várias equipes. Cada card apresenta o nome do colaborador, seu cargo e uma imagem que anteriormente poderia ser selecionada por meio de uma URL mas decidi optar pelo usuário selecionar uma imagem diretamente do computador. Esta melhoria na usabilidade simplificou significativamente o processo de inclusão de imagens.
 
 ### Melhorias Implementadas
 
@@ -16,7 +16,7 @@ O objetivo era criar um organograma empresarial, gerando cards personalizados pa
 
 ## Vídeo do Projeto
 
-[![Assista ao Vídeo](Imagens/naruto.png)](https://youtu.be/NkkIQu0L1Aw?si=JtCuaBxijll46YLx)
+[![Assista ao Vídeo](Imagens/PrintTelaVideo.jpg)](https://youtu.be/NkkIQu0L1Aw?si=JtCuaBxijll46YLx)
 
 ## Agradecimentos
 
